@@ -1,0 +1,1 @@
+This file is part of Lesson 2: Git & GitHub Practical.
